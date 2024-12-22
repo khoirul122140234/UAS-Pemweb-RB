@@ -2,6 +2,9 @@
 username: admin
 password: 123
 
+### Cara membuka Website
+LINK : https://uaspemerograman.great-site.net/
+Masukkan link terebut pada browser dan saat akses web akan ada konfirmasi dulu pilih Trust atau Advance untuk membuka website.
 
 # Proyek Web Programming
 
